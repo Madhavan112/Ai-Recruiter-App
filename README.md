@@ -49,6 +49,17 @@ A full-stack recruitment web application that enables recruiters to post jobs an
 
 ---
 
+
+## 🧩 System Architecture
+
+Below is the architecture diagram of our AI-powered recruitment platform:
+
+![AI Recruitment Platform Architecture](./frontend/public/architecture-diagram.png)
+
+> 📝 This diagram illustrates how the frontend interacts with the backend and external services like Cloudinary and Gemini API. It also shows recruiter vs employee access and how resumes are uploaded, parsed, and scored.
+
+
+
 ## 🚀 Running the App
 
 ### 1. Clone the repository
